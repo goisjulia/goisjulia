@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hi! I'm Julia. Nice to meet you.](https://i.ibb.co/rFJ1Rtg/C-pia-de-Hello-my-name-is-Julia-Nice-to-meet-you.png)
 
 <!--
 **goisjulia/goisjulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
