@@ -5,7 +5,9 @@
   <br />
   If you know a nice project on these topics, just tell me.
 </b>
-<br />
+
+<br>
+<br>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/goisjulia)
 
