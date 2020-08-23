@@ -1,10 +1,11 @@
-![Hi! I'm Julia. Nice to meet you.](https://i.ibb.co/rFJ1Rtg/C-pia-de-Hello-my-name-is-Julia-Nice-to-meet-you.png)
+![Hello world! I'm Julia. Nice to meet you.](https://i.ibb.co/vLrqVgh/C-pia-de-Hello-my-name-is-Julia-Nice-to-meet-you-1.png)
 
 <b>
   I'm a frontend enthusiast. I love coding 💻, music 🎸 and food 🍕
   <br />
   If you know a nice project on these topics, just tell me.
 </b>
+<br />
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/goisjulia)
 
