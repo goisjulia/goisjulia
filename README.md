@@ -1,4 +1,4 @@
-![Hello world! I'm Julia. Nice to meet you.](https://i.ibb.co/wpbgB37/C-pia-de-Hello-my-name-is-Julia-Nice-to-meet-you-1.png)
+![Hello world! I'm Julia. Nice to meet you.](https://i.ibb.co/CVX8mN6/C-pia-de-Hello-my-name-is-Julia-Nice-to-meet-you-1.png)
 
 <b>
   I'm a frontend enthusiast. I love coding 💻, music 🎸 and food 🍕
