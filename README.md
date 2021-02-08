@@ -1,9 +1,9 @@
 ![Hello world! I'm Julia. Nice to meet you.](https://i.ibb.co/CVX8mN6/C-pia-de-Hello-my-name-is-Julia-Nice-to-meet-you-1.png)
 
 <b>
-  I'm a frontend enthusiast. I love coding 💻, music 🎸 and food 🍕
+  I'm a front-end enthusiast and currently work at IBM. I love coding 💻, music 🎸 and food 🍕
   <br />
-  If you know a nice project on these topics, just tell me.
+  You can find me on:
 </b>
 
 <br>
